@@ -11,8 +11,7 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Inicializar o arquivo server.json com o comando 
-
+Inicializar o arquivo server.json com o comando:
 ### ´json-server server.json -p 3333´
 
 The page will reload if you make edits.\
@@ -72,3 +71,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+![1](https://user-images.githubusercontent.com/39061341/123723074-05c21e80-d860-11eb-9442-50450391f6cf.png)
+
